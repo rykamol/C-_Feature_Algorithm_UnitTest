@@ -1,0 +1,7 @@
+E:\Working Directory\Experiment\Csharp_New_Or_Advance\SalaryOfYear\bin\Debug\SalaryOfYear.exe.config
+E:\Working Directory\Experiment\Csharp_New_Or_Advance\SalaryOfYear\bin\Debug\SalaryOfYear.exe
+E:\Working Directory\Experiment\Csharp_New_Or_Advance\SalaryOfYear\bin\Debug\SalaryOfYear.pdb
+E:\Working Directory\Experiment\Csharp_New_Or_Advance\SalaryOfYear\obj\Debug\SalaryOfYear.csproj.CoreCompileInputs.cache
+E:\Working Directory\Experiment\Csharp_New_Or_Advance\SalaryOfYear\obj\Debug\SalaryOfYear.exe
+E:\Working Directory\Experiment\Csharp_New_Or_Advance\SalaryOfYear\obj\Debug\SalaryOfYear.pdb
+E:\Working Directory\Experiment\Csharp_New_Or_Advance\SalaryOfYear\obj\Debug\SalaryOfYear.csprojAssemblyReference.cache

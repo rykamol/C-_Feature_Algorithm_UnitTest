@@ -1,0 +1,7 @@
+E:\Working Directory\Experiment\Csharp_New_Or_Advance\Delegate\bin\Debug\Delegate.exe.config
+E:\Working Directory\Experiment\Csharp_New_Or_Advance\Delegate\bin\Debug\Delegate.exe
+E:\Working Directory\Experiment\Csharp_New_Or_Advance\Delegate\bin\Debug\Delegate.pdb
+E:\Working Directory\Experiment\Csharp_New_Or_Advance\Delegate\obj\Debug\Delegate.csproj.CoreCompileInputs.cache
+E:\Working Directory\Experiment\Csharp_New_Or_Advance\Delegate\obj\Debug\Delegate.exe
+E:\Working Directory\Experiment\Csharp_New_Or_Advance\Delegate\obj\Debug\Delegate.pdb
+E:\Working Directory\Experiment\Csharp_New_Or_Advance\Delegate\obj\Debug\Delegate.csprojAssemblyReference.cache

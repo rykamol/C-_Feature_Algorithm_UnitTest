@@ -1,0 +1,10 @@
+E:\Working Directory\Experiment\Csharp_New_Or_Advance\As_And_Is\bin\Debug\As_And_Is.exe.config
+E:\Working Directory\Experiment\Csharp_New_Or_Advance\As_And_Is\bin\Debug\As_And_Is.exe
+E:\Working Directory\Experiment\Csharp_New_Or_Advance\As_And_Is\bin\Debug\As_And_Is.pdb
+E:\Working Directory\Experiment\Csharp_New_Or_Advance\As_And_Is\obj\Debug\As_And_Is.exe
+E:\Working Directory\Experiment\Csharp_New_Or_Advance\As_And_Is\obj\Debug\As_And_Is.pdb
+E:\Working Directory\Experiment\Csharp_New_Or_Advance\As_And_Is\bin\Debug\System.ValueTuple.dll
+E:\Working Directory\Experiment\Csharp_New_Or_Advance\As_And_Is\bin\Debug\System.ValueTuple.xml
+E:\Working Directory\Experiment\Csharp_New_Or_Advance\As_And_Is\obj\Debug\As_And_Is.csproj.CoreCompileInputs.cache
+E:\Working Directory\Experiment\Csharp_New_Or_Advance\As_And_Is\obj\Debug\As_And_Is.csproj.CopyComplete
+E:\Working Directory\Experiment\Csharp_New_Or_Advance\As_And_Is\obj\Debug\As_And_Is.csprojAssemblyReference.cache

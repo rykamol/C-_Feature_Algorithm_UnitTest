@@ -1,0 +1,16 @@
+Def: A Tuple is a data structure that contains a sequence of element of different data type.
+
+Use:
+	1. It can be use when we want to objects as a properties,but we don't want to ceate seperate type for it.
+
+Example: 
+		Tuple<int, string, string> person = new Tuple <int, string, string>(1, "Steve", "Jobs");
+		var person = Tuple.Create(1, "Steve", "Jobs");   //using Tuple header class
+		person.Item1; // return 1
+		person.Item2; // return Steve
+
+Tuples can be used in the following scenarios:
+
+When you want to return multiple values from a method without using ref or out parameters.
+When you want to pass multiple values to a method through a single parameter.
+When you want to hold a database record or some values temporarily without creating a separate class.

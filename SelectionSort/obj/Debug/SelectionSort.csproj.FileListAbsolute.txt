@@ -1,0 +1,7 @@
+E:\Working Directory\Experiment\Csharp_New_Or_Advance\SelectionSort\bin\Debug\SelectionSort.exe.config
+E:\Working Directory\Experiment\Csharp_New_Or_Advance\SelectionSort\bin\Debug\SelectionSort.exe
+E:\Working Directory\Experiment\Csharp_New_Or_Advance\SelectionSort\bin\Debug\SelectionSort.pdb
+E:\Working Directory\Experiment\Csharp_New_Or_Advance\SelectionSort\obj\Debug\SelectionSort.csproj.CoreCompileInputs.cache
+E:\Working Directory\Experiment\Csharp_New_Or_Advance\SelectionSort\obj\Debug\SelectionSort.exe
+E:\Working Directory\Experiment\Csharp_New_Or_Advance\SelectionSort\obj\Debug\SelectionSort.pdb
+E:\Working Directory\Experiment\Csharp_New_Or_Advance\SelectionSort\obj\Debug\SelectionSort.csprojAssemblyReference.cache

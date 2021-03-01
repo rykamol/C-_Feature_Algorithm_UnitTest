@@ -1635,6 +1635,15 @@
           "lib/netstandard1.3/System.Xml.XDocument.dll": {}
         }
       },
+      "As_And_Is/1.0.0": {
+        "type": "project",
+        "compile": {
+          "bin/placeholder/As_And_Is.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/As_And_Is.dll": {}
+        }
+      },
       "Binary_Search/1.0.0": {
         "type": "project",
         "compile": {
@@ -1644,6 +1653,15 @@
           "bin/placeholder/Binary_Search.dll": {}
         }
       },
+      "Delegate/1.0.0": {
+        "type": "project",
+        "compile": {
+          "bin/placeholder/Delegate.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Delegate.dll": {}
+        }
+      },
       "Encryption/1.0.0": {
         "type": "project",
         "compile": {
@@ -1651,6 +1669,33 @@
         },
         "runtime": {
           "bin/placeholder/Encryption.dll": {}
+        }
+      },
+      "Linear_Search/1.0.0": {
+        "type": "project",
+        "compile": {
+          "bin/placeholder/Linear_Search.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Linear_Search.dll": {}
+        }
+      },
+      "SalaryOfYear/1.0.0": {
+        "type": "project",
+        "compile": {
+          "bin/placeholder/SalaryOfYear.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/SalaryOfYear.dll": {}
+        }
+      },
+      "SelectionSort/1.0.0": {
+        "type": "project",
+        "compile": {
+          "bin/placeholder/SelectionSort.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/SelectionSort.dll": {}
         }
       }
     }
@@ -5673,24 +5718,54 @@
         "system.xml.xdocument.nuspec"
       ]
     },
+    "As_And_Is/1.0.0": {
+      "type": "project",
+      "path": "../As_And_Is/As_And_Is.csproj",
+      "msbuildProject": "../As_And_Is/As_And_Is.csproj"
+    },
     "Binary_Search/1.0.0": {
       "type": "project",
       "path": "../Binary_Search/Binary_Search.csproj",
       "msbuildProject": "../Binary_Search/Binary_Search.csproj"
     },
+    "Delegate/1.0.0": {
+      "type": "project",
+      "path": "../Delegate/Delegate.csproj",
+      "msbuildProject": "../Delegate/Delegate.csproj"
+    },
     "Encryption/1.0.0": {
       "type": "project",
       "path": "../Encryption/Encryption.csproj",
       "msbuildProject": "../Encryption/Encryption.csproj"
+    },
+    "Linear_Search/1.0.0": {
+      "type": "project",
+      "path": "../Linear_Search/Linear_Search.csproj",
+      "msbuildProject": "../Linear_Search/Linear_Search.csproj"
+    },
+    "SalaryOfYear/1.0.0": {
+      "type": "project",
+      "path": "../SalaryOfYear/SalaryOfYear.csproj",
+      "msbuildProject": "../SalaryOfYear/SalaryOfYear.csproj"
+    },
+    "SelectionSort/1.0.0": {
+      "type": "project",
+      "path": "../SelectionSort/SelectionSort.csproj",
+      "msbuildProject": "../SelectionSort/SelectionSort.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v3.1": [
+      "As_And_Is >= 1.0.0",
       "Binary_Search >= 1.0.0",
+      "Delegate >= 1.0.0",
       "Encryption >= 1.0.0",
+      "Linear_Search >= 1.0.0",
       "MSTest.TestAdapter >= 2.1.0",
       "MSTest.TestFramework >= 2.1.0",
       "Microsoft.NET.Test.Sdk >= 16.5.0",
+      "SalaryOfYear >= 1.0.0",
+      "SelectionSort >= 1.0.0",
       "coverlet.collector >= 1.2.0"
     ]
   },
@@ -5727,11 +5802,26 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
+            "E:\\Working Directory\\Experiment\\Csharp_New_Or_Advance\\As_And_Is\\As_And_Is.csproj": {
+              "projectPath": "E:\\Working Directory\\Experiment\\Csharp_New_Or_Advance\\As_And_Is\\As_And_Is.csproj"
+            },
             "E:\\Working Directory\\Experiment\\Csharp_New_Or_Advance\\Binary_Search\\Binary_Search.csproj": {
               "projectPath": "E:\\Working Directory\\Experiment\\Csharp_New_Or_Advance\\Binary_Search\\Binary_Search.csproj"
             },
+            "E:\\Working Directory\\Experiment\\Csharp_New_Or_Advance\\Delegate\\Delegate.csproj": {
+              "projectPath": "E:\\Working Directory\\Experiment\\Csharp_New_Or_Advance\\Delegate\\Delegate.csproj"
+            },
             "E:\\Working Directory\\Experiment\\Csharp_New_Or_Advance\\Encryption\\Encryption.csproj": {
               "projectPath": "E:\\Working Directory\\Experiment\\Csharp_New_Or_Advance\\Encryption\\Encryption.csproj"
+            },
+            "E:\\Working Directory\\Experiment\\Csharp_New_Or_Advance\\Linear_Search\\Linear_Search.csproj": {
+              "projectPath": "E:\\Working Directory\\Experiment\\Csharp_New_Or_Advance\\Linear_Search\\Linear_Search.csproj"
+            },
+            "E:\\Working Directory\\Experiment\\Csharp_New_Or_Advance\\SalaryOfYear\\SalaryOfYear.csproj": {
+              "projectPath": "E:\\Working Directory\\Experiment\\Csharp_New_Or_Advance\\SalaryOfYear\\SalaryOfYear.csproj"
+            },
+            "E:\\Working Directory\\Experiment\\Csharp_New_Or_Advance\\SelectionSort\\SelectionSort.csproj": {
+              "projectPath": "E:\\Working Directory\\Experiment\\Csharp_New_Or_Advance\\SelectionSort\\SelectionSort.csproj"
             }
           }
         }

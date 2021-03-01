@@ -18,8 +18,13 @@
   </ItemGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\As_And_Is\As_And_Is.csproj" />
     <ProjectReference Include="..\Binary_Search\Binary_Search.csproj" />
+    <ProjectReference Include="..\Delegate\Delegate.csproj" />
     <ProjectReference Include="..\Encryption\Encryption.csproj" />
+    <ProjectReference Include="..\Linear_Search\Linear_Search.csproj" />
+    <ProjectReference Include="..\SalaryOfYear\SalaryOfYear.csproj" />
+    <ProjectReference Include="..\SelectionSort\SelectionSort.csproj" />
   </ItemGroup>
 
 </Project>

@@ -8,11 +8,16 @@
     ".NETCoreApp,Version=v3.1": {
       "AllLibraryTest/1.0.0": {
         "dependencies": {
+          "As_And_Is": "1.0.0",
           "Binary_Search": "1.0.0",
+          "Delegate": "1.0.0",
           "Encryption": "1.0.0",
+          "Linear_Search": "1.0.0",
           "MSTest.TestAdapter": "2.1.0",
           "MSTest.TestFramework": "2.1.0",
           "Microsoft.NET.Test.Sdk": "16.5.0",
+          "SalaryOfYear": "1.0.0",
+          "SelectionSort": "1.0.0",
           "coverlet.collector": "1.2.0"
         },
         "runtime": {
@@ -1072,14 +1077,39 @@
           "System.Xml.ReaderWriter": "4.3.0"
         }
       },
+      "As_And_Is/1.0.0": {
+        "runtime": {
+          "As_And_Is.exe": {}
+        }
+      },
       "Binary_Search/1.0.0": {
         "runtime": {
           "Binary_Search.exe": {}
         }
       },
+      "Delegate/1.0.0": {
+        "runtime": {
+          "Delegate.exe": {}
+        }
+      },
       "Encryption/1.0.0": {
         "runtime": {
           "Encryption.exe": {}
+        }
+      },
+      "Linear_Search/1.0.0": {
+        "runtime": {
+          "Linear_Search.exe": {}
+        }
+      },
+      "SalaryOfYear/1.0.0": {
+        "runtime": {
+          "SalaryOfYear.exe": {}
+        }
+      },
+      "SelectionSort/1.0.0": {
+        "runtime": {
+          "SelectionSort.exe": {}
         }
       }
     }
@@ -1699,12 +1729,37 @@
       "path": "system.xml.xdocument/4.3.0",
       "hashPath": "system.xml.xdocument.4.3.0.nupkg.sha512"
     },
+    "As_And_Is/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
     "Binary_Search/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
     },
+    "Delegate/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
     "Encryption/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Linear_Search/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SalaryOfYear/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SelectionSort/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

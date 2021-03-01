@@ -32,11 +32,26 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
+              "E:\\Working Directory\\Experiment\\Csharp_New_Or_Advance\\As_And_Is\\As_And_Is.csproj": {
+                "projectPath": "E:\\Working Directory\\Experiment\\Csharp_New_Or_Advance\\As_And_Is\\As_And_Is.csproj"
+              },
               "E:\\Working Directory\\Experiment\\Csharp_New_Or_Advance\\Binary_Search\\Binary_Search.csproj": {
                 "projectPath": "E:\\Working Directory\\Experiment\\Csharp_New_Or_Advance\\Binary_Search\\Binary_Search.csproj"
               },
+              "E:\\Working Directory\\Experiment\\Csharp_New_Or_Advance\\Delegate\\Delegate.csproj": {
+                "projectPath": "E:\\Working Directory\\Experiment\\Csharp_New_Or_Advance\\Delegate\\Delegate.csproj"
+              },
               "E:\\Working Directory\\Experiment\\Csharp_New_Or_Advance\\Encryption\\Encryption.csproj": {
                 "projectPath": "E:\\Working Directory\\Experiment\\Csharp_New_Or_Advance\\Encryption\\Encryption.csproj"
+              },
+              "E:\\Working Directory\\Experiment\\Csharp_New_Or_Advance\\Linear_Search\\Linear_Search.csproj": {
+                "projectPath": "E:\\Working Directory\\Experiment\\Csharp_New_Or_Advance\\Linear_Search\\Linear_Search.csproj"
+              },
+              "E:\\Working Directory\\Experiment\\Csharp_New_Or_Advance\\SalaryOfYear\\SalaryOfYear.csproj": {
+                "projectPath": "E:\\Working Directory\\Experiment\\Csharp_New_Or_Advance\\SalaryOfYear\\SalaryOfYear.csproj"
+              },
+              "E:\\Working Directory\\Experiment\\Csharp_New_Or_Advance\\SelectionSort\\SelectionSort.csproj": {
+                "projectPath": "E:\\Working Directory\\Experiment\\Csharp_New_Or_Advance\\SelectionSort\\SelectionSort.csproj"
               }
             }
           }
@@ -86,6 +101,16 @@
         }
       }
     },
+    "E:\\Working Directory\\Experiment\\Csharp_New_Or_Advance\\As_And_Is\\As_And_Is.csproj": {
+      "restore": {
+        "projectUniqueName": "E:\\Working Directory\\Experiment\\Csharp_New_Or_Advance\\As_And_Is\\As_And_Is.csproj",
+        "projectName": "As_And_Is",
+        "projectPath": "E:\\Working Directory\\Experiment\\Csharp_New_Or_Advance\\As_And_Is\\As_And_Is.csproj"
+      },
+      "frameworks": {
+        "net45": {}
+      }
+    },
     "E:\\Working Directory\\Experiment\\Csharp_New_Or_Advance\\Binary_Search\\Binary_Search.csproj": {
       "restore": {
         "projectUniqueName": "E:\\Working Directory\\Experiment\\Csharp_New_Or_Advance\\Binary_Search\\Binary_Search.csproj",
@@ -96,11 +121,51 @@
         "net472": {}
       }
     },
+    "E:\\Working Directory\\Experiment\\Csharp_New_Or_Advance\\Delegate\\Delegate.csproj": {
+      "restore": {
+        "projectUniqueName": "E:\\Working Directory\\Experiment\\Csharp_New_Or_Advance\\Delegate\\Delegate.csproj",
+        "projectName": "Delegate",
+        "projectPath": "E:\\Working Directory\\Experiment\\Csharp_New_Or_Advance\\Delegate\\Delegate.csproj"
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
     "E:\\Working Directory\\Experiment\\Csharp_New_Or_Advance\\Encryption\\Encryption.csproj": {
       "restore": {
         "projectUniqueName": "E:\\Working Directory\\Experiment\\Csharp_New_Or_Advance\\Encryption\\Encryption.csproj",
         "projectName": "Encryption",
         "projectPath": "E:\\Working Directory\\Experiment\\Csharp_New_Or_Advance\\Encryption\\Encryption.csproj"
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "E:\\Working Directory\\Experiment\\Csharp_New_Or_Advance\\Linear_Search\\Linear_Search.csproj": {
+      "restore": {
+        "projectUniqueName": "E:\\Working Directory\\Experiment\\Csharp_New_Or_Advance\\Linear_Search\\Linear_Search.csproj",
+        "projectName": "Linear_Search",
+        "projectPath": "E:\\Working Directory\\Experiment\\Csharp_New_Or_Advance\\Linear_Search\\Linear_Search.csproj"
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "E:\\Working Directory\\Experiment\\Csharp_New_Or_Advance\\SalaryOfYear\\SalaryOfYear.csproj": {
+      "restore": {
+        "projectUniqueName": "E:\\Working Directory\\Experiment\\Csharp_New_Or_Advance\\SalaryOfYear\\SalaryOfYear.csproj",
+        "projectName": "SalaryOfYear",
+        "projectPath": "E:\\Working Directory\\Experiment\\Csharp_New_Or_Advance\\SalaryOfYear\\SalaryOfYear.csproj"
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "E:\\Working Directory\\Experiment\\Csharp_New_Or_Advance\\SelectionSort\\SelectionSort.csproj": {
+      "restore": {
+        "projectUniqueName": "E:\\Working Directory\\Experiment\\Csharp_New_Or_Advance\\SelectionSort\\SelectionSort.csproj",
+        "projectName": "SelectionSort",
+        "projectPath": "E:\\Working Directory\\Experiment\\Csharp_New_Or_Advance\\SelectionSort\\SelectionSort.csproj"
       },
       "frameworks": {
         "net472": {}

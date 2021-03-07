@@ -1,0 +1,7 @@
+E:\Working Directory\Experiment\Csharp_New_Or_Advance\Tuple\bin\Debug\Tuple.exe.config
+E:\Working Directory\Experiment\Csharp_New_Or_Advance\Tuple\bin\Debug\Tuple.exe
+E:\Working Directory\Experiment\Csharp_New_Or_Advance\Tuple\bin\Debug\Tuple.pdb
+E:\Working Directory\Experiment\Csharp_New_Or_Advance\Tuple\obj\Debug\Tuples.csprojAssemblyReference.cache
+E:\Working Directory\Experiment\Csharp_New_Or_Advance\Tuple\obj\Debug\Tuples.csproj.CoreCompileInputs.cache
+E:\Working Directory\Experiment\Csharp_New_Or_Advance\Tuple\obj\Debug\Tuple.exe
+E:\Working Directory\Experiment\Csharp_New_Or_Advance\Tuple\obj\Debug\Tuple.pdb
